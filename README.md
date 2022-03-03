@@ -25,19 +25,19 @@ Este material faz parte da disciplina de Programação Web Back-end do Curso de 
 
 Este curso é sobre desenvolvimento de aplicações web para back-end, especificamente o desenvolvimento de APIs REST. Vamos aprender sobre os princípios REST, sobre o modelo cliente-servidor e, principalmente, vamos aprender como construir APIs REST usando as tecnologias Java e Spring, tais como:
 
-- Maven para gerenciamento de dependências e automação de build;
--  Spring Boot como ferramenta que visa facilitar o processo de configuração e publicação de aplicações que utilizem o ecossistema Spring. 
--  Spring Data para configuração e manipulação dos dados com banco de dados relacional;
--  Spring Security para implementação de autenticação e autorização de usuários;
--  Swagger para documentação de API de acordo com a especificação OpenAPI;
--  Spring Actuator para monitoramento e gerenciamento de aplicações; e
--  Heroku como plataforma para deploy e hospedagem de aplicações Spring.
+- **Maven** para gerenciamento de dependências e automação de build;
+-  **Spring Boot** como ferramenta que visa facilitar o processo de configuração e publicação de aplicações que utilizem o ecossistema Spring. 
+- **Spring Data** para configuração e manipulação dos dados com banco de dados relacional;
+-  **Spring Security** para implementação de autenticação e autorização de usuários;
+-  **Swagger** para documentação de API de acordo com a especificação OpenAPI;
+-  **Spring Actuator** para monitoramento e gerenciamento de aplicações; e
+-  **Heroku** como plataforma para deploy e hospedagem de aplicações Spring.
 
 No processo de aprendizado de construção de APIs usando tecnologias Spring, você também vai:
 
-- Praticar a habilidade de ler documentações detalhadas, ler e escrever código legível, bem documentado e estruturado;
-- Aprender a pesquisar e avaliar soluções de forma adequada;
-- Ter a oportunidade de desenvolver um portfólio individual para mostrar aos possíveis empregadores.
+- Praticar a habilidade de **ler documentações** detalhadas, **ler e escrever código legível**, bem documentado e estruturado;
+- **Aprender a pesquisar** e avaliar soluções de forma adequada;
+- Ter a oportunidade de **desenvolver um portfólio individual** para mostrar aos possíveis empregadores.
 
 ## Objetivos de aprendizagem detalhados
 
