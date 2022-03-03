@@ -1,12 +1,12 @@
-# Nome da Disciplina
+# Programação Web Back-end
 
-Este material faz parte da disciplina de <nome da disciplina> do Curso <nome do curso> do Instituto Federal do Piauí (IFPI) Campus Picos.
+Este material faz parte da disciplina de Programação Web Back-end do Curso de Pós-Graduação em Engenharia de Software do Instituto Federal do Piauí (IFPI) Campus Picos.
 
 **Sumário**
-- [Nome da Disciplina](#nome-da-disciplina)
+- [Programação Web Back-end](#programação-web-back-end)
   - [Agenda](#agenda)
-  - [Visão geral](#visão-geral)
-  - [Objetivos de Aprendizagem](#objetivos-de-aprendizagem)
+  - [Objetivo do curso](#objetivo-do-curso)
+  - [Objetivos de aprendizagem detalhados](#objetivos-de-aprendizagem-detalhados)
   - [Pré-Requisitos](#pré-requisitos)
   - [Ementa](#ementa)
   - [Ferramentas](#ferramentas)
@@ -21,42 +21,58 @@ Este material faz parte da disciplina de <nome da disciplina> do Curso <nome do 
 
 
 
-## Visão geral
+## Objetivo do curso
 
-Este curso apresenta os conceitos fundamentais da Web e como utilizar suas tecnologias básicas (HTML, CSS e Javascript) para criação de aplicativos. No decorrer do curso o aluno vai ver como os conceitos fundamentais das tecnologias web podem ser aplicados para desenvolver software da Web real. 
+Este curso é sobre desenvolvimento de aplicações web para back-end, especificamente o desenvolvimento de APIs REST. Vamos aprender sobre os princípios REST, sobre o modelo cliente-servidor e, principalmente, vamos aprender como construir APIs REST usando as tecnologias Java e Spring, tais como:
 
-Além dos conceitos, o aluno demonstrará sua competência no desenvolvimento da Web desenvolvendo software dinâmico da Web com as tecnologias de programação mais comumente usadas.
+- Maven para gerenciamento de dependências e automação de build;
+-  Spring Boot como ferramenta que visa facilitar o processo de configuração e publicação de aplicações que utilizem o ecossistema Spring. 
+-  Spring Data para configuração e manipulação dos dados com banco de dados relacional;
+-  Spring Security para implementação de autenticação e autorização de usuários;
+-  Swagger para documentação de API de acordo com a especificação OpenAPI;
+-  Spring Actuator para monitoramento e gerenciamento de aplicações; e
+-  Heroku como plataforma para deploy e hospedagem de aplicações Spring.
 
-A metodologia de desenvolvimento do curso é baseada no Problem-Based Learning (PBL), cujo objetivo é trabalhar e desenvolver conhecimentos e habilidades técnicas, além de desenvolver habilidades interpessoais, tais como trabalho em equipe, comunicação, gerenciamento de tempo e resolução de problemas reais.
+No processo de aprendizado de construção de APIs usando tecnologias Spring, você também vai:
 
-Após concluir este curso, você compreenderá o funcionamento da Web e estará capacitado para resolver problemas que envolva o projeto e implementação de páginas Web utilizando HTML, CSS e Javascript.
+- Praticar a habilidade de ler documentações detalhadas, ler e escrever código legível, bem documentado e estruturado;
+- Aprender a pesquisar e avaliar soluções de forma adequada;
+- Ter a oportunidade de desenvolver um portfólio individual para mostrar aos possíveis empregadores.
 
-## Objetivos de Aprendizagem
+## Objetivos de aprendizagem detalhados
 
-* Compreender o funcionamento da Web e demonstrar um entendimento do modelo cliente-servidor;
-* Desenvolver software da Web usando tecnologias específicas, incluindo HTML, CSS e Javascript.
-* Desenvolver habilidades e técnicas para criar interfaces de páginas Web responsivas e com boa usabilidade;
-* Desenvolver habilidades técnicas para construção de soluções conforme os requisitos do cliente, incluindo critérios de avaliação de usabilidade e acessibilidade;
-* Desenvolver habilidades de trabalho em equipe, para poder colaborar profissionalmente com seu parceiro de projeto contribuindo para o sucesso do mesmo.
+1. Entender os princípos REST para desenvolvimento de APIs;
+1. Compreender o funcionamento do Spring Boot;
+1. Aprender a construir APIs dinâmicas e seguras com Spring Boot, Spring Data e Spring Security;
+1.  Entender a importância da documentação e monitoramento de APIs;
+1. Conhecer padrões e boas práticas de desenvolvimento e documentação de APIs;
+1. Aprender a implantar aplicações back-end em plataformas de hospedagem na nuvem;
 
 ## Pré-Requisitos
 
-* Conhecimento básico em algoritmos e estrutura de dados;
-* Noções de comandos básicos do terminal Linux/Windows/Mac;
-* Noções básicas de redes de computadores.
+* Conhecimento de Programação Orienta a Objetos;
+* Conhecimento básico do modelo REST;
+* Conhecimento básico de Java;
+* Noção de comandos básicos do terminal Linux/Windows/Mac;
+* Noção básica de redes de computadores;
+* Noção de como a web funciona.
 
 ## Ementa
 
-1. Introdução aos conceitos de Internet e Web;
-2. Linguagem de marcação para Web - HTML;
-3. Folha de estilo para Web - CSS;
-4. Princípios de Design responsivo;
-5. Usabilidade na Web;
-6. Introdução à Javascript;
-7. Páginas web dinâmicas com HTML, CSS e Javascript;
-8. Integração com APIs externas;
-9. Testes automatizados; e
-10. Hospedagem de páginas web na nuvem.
+1. Introdução ao Spring Boot
+1. Criando endpoints para consulta de recursos
+1. Spring Data e banco de dados
+1. Spring Data e banco de dados
+1. Criando endpoints para adicionar recursos
+1. Validação de dados
+1. Paginação e ordenação de recursos
+1. Spring cache
+1. Spring security
+1. Token JWT
+1. Autenticação e autorização
+1. Documentação com Swagger
+1. Monitoramento com Spring Actuator
+1. Deploy de aplicações back-end no Heroku
 
 ## Ferramentas 
 
@@ -69,9 +85,10 @@ Ferramentas utilizadas no curso para realização das atividades. Instale e conf
 
 ## Bibliografia
 
-Neste curso será utilizado dois recursos como bibliografia base: o eBook [Web Dev Book](https://webdev.jesielviana.com), disponível gratuitamente online e o portal da [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/), que é uma das principais referências como documentação da web.
+Não existe um livro didático base para este curso. O conteúdo do curso é definido pelo conteúdo programático e suas respectivas aulas. Em toda aula será disponibilizado o material base de referência (slides, código-fonte, vídeos, documentação, etc) e outros materiais extras. 
 
-Além do Web Dev Book e da MDN, em toda aula será disponibilizados outros materiais complementares (vídeos, posts, tutoriais, documentações, etc). 
+Todos materiais recomendados serão gratuitos e de preferências digitais. A principal fonte de referência será a própria documentação do [Spring Boot](https://spring.io/projects/spring-boot)
+
 
 ---
 
