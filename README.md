@@ -37,7 +37,7 @@ No processo de aprendizado de construção de APIs usando tecnologias Spring, vo
 
 - Praticar a habilidade de **ler documentações** detalhadas, **ler e escrever código legível**, bem documentado e estruturado;
 - **Aprender a pesquisar** e avaliar soluções de forma adequada;
-- Ter a oportunidade de **desenvolver um portfólio individual** para mostrar aos possíveis empregadores.
+  - Ter a oportunidade de **desenvolver um portfólio individual** para mostrar aos possíveis empregadores.
 
 ## Objetivos de aprendizagem detalhados
 
