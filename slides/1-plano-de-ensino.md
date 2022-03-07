@@ -11,23 +11,8 @@ Prof. Jesiel Viana
 @jesielviana
 
 ---
-## Objetivo geral
-
-Capacitar o aluno a desenvolver e implementar paginas, sítios e portais com utilização de páginas estáticas e dinâmicas, bem como interfaces de aplicações.
-
----
-
-## Objetivos específicos
-
-- Primeiro objetivo
-- Segundo objetivo
-- Terceiro objetivo
-
-
----
-## Ferramentas
-
-![bg right](../images/tools.png)
+## Plano de Ensino
+### leia o README da raiz do repositório
 
 
 ---
