@@ -23,17 +23,16 @@ Este material faz parte da disciplina de Programação Web Back-end do Curso de 
 
 ## Objetivo do curso
 
-Este curso é sobre desenvolvimento de aplicações web para back-end, especificamente o desenvolvimento de APIs REST. Vamos aprender sobre os princípios REST, sobre o modelo cliente-servidor e, principalmente, vamos aprender como construir APIs REST usando as tecnologias Java e Spring, tais como:
+Este curso é sobre desenvolvimento de aplicações web para back-end, especificamente o desenvolvimento de APIs REST. Vamos aprender sobre os princípios REST, sobre o modelo cliente-servidor e, principalmente, vamos aprender como construir APIs REST usando Node.js, tais como:
 
-- **Maven** para gerenciamento de dependências e automação de build;
--  **Spring Boot** como ferramenta que visa facilitar o processo de configuração e publicação de aplicações que utilizem o ecossistema Spring. 
-- **Spring Data** para configuração e manipulação dos dados com banco de dados relacional;
--  **Spring Security** para implementação de autenticação e autorização de usuários;
+- **NPM ou Yarn** para gerenciamento de dependências e automação de build;
+-  **NestJS** como framework progressivo do Node.js para criar aplicações back-end eficientes, confiáveis e escaláveis. 
+- **Prisma** para configuração e manipulação dos dados com banco de dados relacional;
+-  **Passport** para implementação de autenticação de usuários;
 -  **Swagger** para documentação de API de acordo com a especificação OpenAPI;
--  **Spring Actuator** para monitoramento e gerenciamento de aplicações; e
--  **Heroku** como plataforma para deploy e hospedagem de aplicações Spring.
+-  **Heroku** como plataforma para deploy e hospedagem de aplicações NestJS.
 
-No processo de aprendizado de construção de APIs usando tecnologias Spring, você também vai:
+No processo de aprendizado de construção de APIs usando tecnologias Node.js, você também vai:
 
 - Praticar a habilidade de **ler documentações** detalhadas, **ler e escrever código legível**, bem documentado e estruturado;
 - **Aprender a pesquisar** e avaliar soluções de forma adequada;
@@ -42,8 +41,8 @@ No processo de aprendizado de construção de APIs usando tecnologias Spring, vo
 ## Objetivos de aprendizagem detalhados
 
 1. Entender os princípos REST para desenvolvimento de APIs;
-1. Compreender o funcionamento do Spring Boot;
-1. Aprender a construir APIs dinâmicas e seguras com Spring Boot, Spring Data e Spring Security;
+1. Compreender o funcionamento do NestJS;
+1. Aprender a construir APIs dinâmicas e seguras com NestJS;
 1.  Entender a importância da documentação e monitoramento de APIs;
 1. Conhecer padrões e boas práticas de desenvolvimento e documentação de APIs;
 1. Aprender a implantar aplicações back-end em plataformas de hospedagem na nuvem;
@@ -59,20 +58,16 @@ No processo de aprendizado de construção de APIs usando tecnologias Spring, vo
 
 ## Ementa
 
-1. Introdução ao Spring Boot
-1. Criando endpoints para consulta de recursos
-1. Spring Data e banco de dados
-1. Spring Data e banco de dados
-1. Criando endpoints para adicionar recursos
-1. Validação de dados
-1. Paginação e ordenação de recursos
-1. Spring cache
-1. Spring security
-1. Token JWT
-1. Autenticação e autorização
-1. Documentação com Swagger
-1. Monitoramento com Spring Actuator
-1. Deploy de aplicações back-end no Heroku
+1. Introdução ao NestJS
+2. Arquitetura de aplicações NestJS
+3. Criação de endpoints
+4. Configuração de banco de dados com Prisma
+5. Testes de integração
+6. Documentação OpenAPI
+7. Implementação de segurança
+8. NestJS com GraphQL
+9. NestJS para microsserviços
+10. Deploy de aplicações back-end no Heroku
 
 ## Ferramentas 
 
@@ -87,7 +82,7 @@ Ferramentas utilizadas no curso para realização das atividades. Instale e conf
 
 Não existe um livro didático base para este curso. O conteúdo do curso é definido pelo conteúdo programático e suas respectivas aulas. Em toda aula será disponibilizado o material base de referência (slides, código-fonte, vídeos, documentação, etc) e outros materiais extras. 
 
-Todos materiais recomendados serão gratuitos e de preferências digitais. A principal fonte de referência será a própria documentação do [Spring Boot](https://spring.io/projects/spring-boot)
+Todos materiais recomendados serão gratuitos e de preferências digitais. A principal fonte de referência será a própria documentação do [NestJS](https://docs.nestjs.com)
 
 
 ---
