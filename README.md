@@ -4,7 +4,7 @@ Este material faz parte da disciplina de Programação Web Back-end do Curso de 
 
 **Sumário**
 - [Programação Web Back-end](#programação-web-back-end)
-  - [Agenda](#agenda)
+  - [Projeto](#projeto)
   - [Objetivo do curso](#objetivo-do-curso)
   - [Objetivos de aprendizagem detalhados](#objetivos-de-aprendizagem-detalhados)
   - [Pré-Requisitos](#pré-requisitos)
@@ -14,11 +14,10 @@ Este material faz parte da disciplina de Programação Web Back-end do Curso de 
   - [Licença](#licença)
   - [Autor](#autor)
 
-## Agenda 
-| Aula | Data      | Assunto                         | Material                              |
-| ---- | --------- | ------------------------------- | ------------------------------------- |
-| 1    | 7/03/2022 | Apresentação do plano de ensino | [slides](slides/1-plano-de-ensino.md) |
+## Projeto
+A descrição do projeto, suas funcionalidades e tarefas para serem desenvolvidas estão no repositório do GitHub [https://github.com/ifpi-picos/fast-events](https://github.com/ifpi-picos/fast-events).
 
+Os próprios alunos serão responsáveis por dividirem as tarefas entre si sob orientação e supervisão do professor Jesiel Viana. Qualquer dúvida entrar em contato com professor.
 
 
 ## Objetivo do curso
@@ -43,7 +42,7 @@ No processo de aprendizado de construção de APIs usando tecnologias Node.js, v
 1. Entender os princípos REST para desenvolvimento de APIs;
 1. Compreender o funcionamento do NestJS;
 1. Aprender a construir APIs dinâmicas e seguras com NestJS;
-1.  Entender a importância da documentação e monitoramento de APIs;
+1. Entender a importância da documentação e monitoramento de APIs;
 1. Conhecer padrões e boas práticas de desenvolvimento e documentação de APIs;
 1. Aprender a implantar aplicações back-end em plataformas de hospedagem na nuvem;
 
